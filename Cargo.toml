@@ -1,0 +1,8 @@
+[package]
+name = "docker-habitat"
+version = "0.1.0"
+authors = ["Danil Guskov <gudkovd86@mail.ru>"]
+
+[dependencies]
+clap = "=2.31.1"
+users = "0.7"
